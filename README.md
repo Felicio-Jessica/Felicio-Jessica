@@ -16,7 +16,7 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 </div><br/>
 
-Cursando:
+Faculdade Impacta Tecnologia:
 Analíse e Desenvolvimento de Sistemas<br/>
 (https://www.impacta.edu.br/)<br/>
 
