@@ -20,6 +20,4 @@ Faculdade Impacta Tecnologia:
 Analíse e Desenvolvimento de Sistemas<br/>
 (https://www.impacta.edu.br/)<br/>
 
-Email:jessicafeliciosilva@gmail.com<br/>
-
 Apaixonada por tecnologia e animais!<br/>
